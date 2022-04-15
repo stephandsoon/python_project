@@ -1,11 +1,25 @@
 This txt-file contains explanations of how to deal with the current project
 
+###########################################################################
+Congrats: if you can see this file you've already cloned the repository and will be able to use the current project very soon.
+To get the full experience:
+	1. Open setup.bat with a text editor and set the path where the python compiler you want to use is located on your machine.
+	2. Save setup.bat
+	3. Doubleclick on setup.bat
+
 
 
 ###########################################################################
 How to create a similar project:
-	1. Create folder containing setup.bat, .gitignore and explanation.txt
 
+	1. Add to your folder the files setup.bat, .gitignore and explanation.txt
+	2. Open folder in VSCode
+	3. Click on SourceControl-Button in VSCode and click on Initialize Repository
+	(4. Choose the folder from workspace) 
+	5. Commit with hook symbol including comment
+	6. Click on [View] in VSCode -> Command Pallete -> Add: Remote Repository
+	7. Create Github Repository and connect
+	8. Push
 ###########################################################################
 Work with git:
 $ git init							//Initialize Local Git Repository
