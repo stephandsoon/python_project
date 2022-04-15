@@ -20,6 +20,10 @@ How to create a similar project:
 	6. Click on [View] in VSCode -> Command Pallete -> Add: Remote Repository
 	7. Create Github Repository and connect
 	8. Push
+
+
+
+
 ###########################################################################
 Work with git:
 $ git init							//Initialize Local Git Repository
